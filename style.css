@@ -24,6 +24,9 @@
     box-shadow:5px 5px 5px grey;
     font-size: 20px;
   }
+  .result_para_tag span{
+    white-space: pre-line;
+  }
  .copy_right_footer{
   position: fixed;
   color: white;
@@ -37,6 +40,6 @@
   border: 5px solid white;
   border-radius: 20px;
   box-shadow: 5px 5px 5px gray;
-  margin-top: 160px;
+  margin-top: 200px;
 
  }
